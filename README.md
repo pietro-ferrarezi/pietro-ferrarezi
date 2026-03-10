@@ -63,7 +63,7 @@ combining clean interfaces with functional back-end systems.
 
 <hr>
 
-<h2>🚧 Future Projects</h2>
+<!-- <h2>🚧 Future Projects</h2>
 
 <p>
 This section will soon include some of my main projects related to:
@@ -73,9 +73,9 @@ This section will soon include some of my main projects related to:
 <li>Web services for small businesses</li>
 <li>Full-stack applications</li>
 <li>Programming experiments and learning projects</li>
-</ul>
+</ul> -->
 
-<hr>
+<!-- <hr> -->
 
 <h2>📫 Contact</h2>
 
