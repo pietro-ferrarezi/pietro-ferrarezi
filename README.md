@@ -1,6 +1,6 @@
 <h1 align="center">console.log("Hey there!! 👋🏻 I'm Pietro")</h1>
 <p align="center">
-Front-End Developer | Future Full-Stack Engineer
+Full-Stack
 </p>
 
 <hr>
@@ -13,8 +13,7 @@ Currently in my second year, focusing on becoming a <strong>Full-Stack Developer
 </p>
 
 <p>
-I enjoy building <strong>web applications and digital services for local businesses</strong>, 
-combining clean interfaces with functional back-end systems.
+I enjoy building <strong>web applications and digital services for local businesses</strong>
 </p>
 
 <hr>
