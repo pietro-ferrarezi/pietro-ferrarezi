@@ -12,10 +12,6 @@ I'm a student of <strong>Technical High School in Internet Informatics</strong> 
 Currently in my second year, focusing on becoming a <strong>Full-Stack Developer</strong>.
 </p>
 
-<p>
-I enjoy building <strong>web applications and digital services for local businesses</strong>
-</p>
-
 <hr>
 
 <h2>💻 Languages</h2>
