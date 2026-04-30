@@ -56,6 +56,11 @@ Currently in my second year, focusing on becoming a <strong>Full-Stack Developer
 <img src="https://img.shields.io/badge/Godot-567afc?style=for-the-badge&logo=godotengine&logoColor=black" />
 </p>
 
+<h3>Frameworks / Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Vue-35cc92?style=for-the-badge&logo=vuejs&logoColor=black" />
+</p>
+
 <hr>
 
 <!-- <h2>🚧 Future Projects</h2>
