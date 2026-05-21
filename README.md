@@ -58,7 +58,7 @@ Currently in my second year, focusing on becoming a <strong>Full-Stack Developer
 
 <h3>Frameworks / Libraries</h3>
 <p>
-  [![Vue](https://skillicons.dev/icons?i=vue)](https://skillicons.dev)
+  <img src="https://skillicons.dev/icons?i=vue" />
 </p>
 
 <hr>
