@@ -1,7 +1,7 @@
 <h1 align="center">console.log("Server Running!")</h1>
-<p align="center">
+<!-- <p align="center">
 Full-Stack
-</p>
+</p> -->
 
 <hr>
 
